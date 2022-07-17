@@ -1,5 +1,5 @@
 Nombre: Ragnar Bermudez La O
 Cid: 78080910665
-Edad: 44
+Edad: 45
 
-me Gustan los perros
+me Gustan los Robots
