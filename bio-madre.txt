@@ -1,13 +1,5 @@
-<<<<<<< HEAD
 mi madre se llama Miriam La O
 tiene 65 años
 ella es la mejor madre del mundo
 le gusta usar camara de fotos
-Camios en Master
-=======
-mi madre se llama Miriam La O
-tiene 65 años
-ella es la mejor madre del mundo
-le gusta usar camara de fotos
-cambios en Bio-Madre
->>>>>>> bio-madre
+cambios en Bio-Madre(aceptados en Master)
